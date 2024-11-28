@@ -1,9 +1,9 @@
 export default function AboutSection(){
     return(
         <main className="w-screen h-max">
-            <div className="w-full p-5 mb-3  md:p-10 flex items-center justify-center">
+            <div className="w-full p-5  md:p-10 flex items-center justify-center">
                 {/**Buffer?? */}
-                <div className="w-11/12 bg-slate-600 rounded-lg sm:p-[2px] p-[1px] opacity-70"></div>
+                <div className="w-11/12 bg-slate-600 rounded-lg sm:p-[2px] p-[1px] opacity-50"></div>
             </div>
             <div className="gap-10 p-5 flex items-center justify-center flex-col">
                 <h1 className="uppercase font-black text-4xl">
